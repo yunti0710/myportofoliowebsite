@@ -1,0 +1,17 @@
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #efe5d2;
+
+  }
+  #Galery {
+    background-color: #efe5d2;
+
+  }
+  #galery img {
+    width: 10%;
+    height: 10%;
+  }
+  section {
+    padding-top: 5rem;
+  }
